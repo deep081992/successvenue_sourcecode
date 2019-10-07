@@ -1,0 +1,48 @@
+.bg-aqua{
+	background: aqua;
+}
+.bg-deepskyblue{
+	background: deepskyblue;
+}
+.bg-aquamarine{
+	background: aquamarine;
+}
+.bg-mediumspringgreen{
+	background: mediumspringgreen;
+}
+.bg-tomato{
+	background: tomato;
+}
+.bg-darkorange{
+	background: darkorange;
+}
+.btn-aqua{
+	background: aqua;
+	height: 40px;
+	width: 60px;
+	border-radius: 2px;
+	color: white;
+}
+#landing_page_body{
+	background: black;
+}
+.bg-mistyrose{
+	background: mistyrose;
+}
+.font-bold-medium{
+	font-size: 20px;
+	font-weight: bold;
+}
+.font-bold{
+	font-size: 18px;
+	font-weight: bold;
+}
+.font-white{
+	color: white;
+}
+.bg-mistyrose{
+	background: mistyrose;
+}
+.bg-deeppink{
+	background: deeppink;
+}

@@ -1,0 +1,7 @@
+.bg-gainsboro{
+	background: gainsboro !important;;
+}
+.blue-gradiant{
+background: linear-gradient(45deg,mediumturquoise,steelblue);
+
+}

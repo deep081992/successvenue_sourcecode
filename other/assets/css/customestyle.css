@@ -1,0 +1,79 @@
+.active{
+	background: #FF8800;
+	border-radius: 5px;
+	box-shadow: 5px #ffbb33;
+}
+.above-footer{
+	background: darkorange;
+	box-shadow: 0 0 5px darkslategray !important;
+	height: 80px;
+}
+.main{
+	background: darkorange;
+}
+#visitorform{
+	height: 490px;
+	background: white;
+	border-radius: 5px;
+}
+#submitform{
+	padding: 10px;
+}
+.submit-button{
+	background: tomato;
+}
+input[type="text"]{
+	height: 50px;
+}
+#footer{
+	height: 85px;
+	color: dimgray;
+}
+.fontsize{
+	font-size: 30px;
+}
+.fontstyle{
+	font-family: Aharoni;
+}
+.bg-aqua{
+	background: aqua;
+}
+.bg-deepskyblue{
+	background: deepskyblue;
+}
+.bg-aquamarine{
+	background: aquamarine;
+}
+.bg-mediumspringgreen{
+	background: mediumspringgreen;
+}
+.bg-tomato{
+	background: tomato;
+}
+.bg-darkorange{
+	background: darkorange;
+}
+.btn-aqua{
+	background: aqua;
+	height: 40px;
+	width: 60px;
+	border-radius: 2px;
+	color: white;
+}
+#landing_page_body{
+	background: black;
+}
+.bg-mistyrose{
+	background: mistyrose;
+}
+.font-bold-medium{
+	font-size: 20px;
+	font-weight: bold;
+}
+.font-bold{
+	font-size: 18px;
+	font-weight: bold;
+}
+.font-white{
+	color: white;
+}

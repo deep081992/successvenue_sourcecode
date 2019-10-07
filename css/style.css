@@ -1,0 +1,29 @@
+.active{
+	background: yellowgreen;
+	border-radius: 6px;
+    color: white;
+}
+.bg-yellogreen{
+	background: yellowgreen;
+}
+.text-yellowgreen{
+	color: yellowgreen;
+}
+.bg-lightseagreen{
+    background: linear-gradient(45deg,royalblue,lightseagreen);
+}
+.text-font{
+	font-family: "Times New Roman",sans-serif;
+	
+}
+.bg-darkblue{
+	background: darkslateblue;
+}
+#page2,#page3{
+	display: none;
+}
+.small-text{
+	font-family: "Times New Roman",sans-serif;
+	font-size: 11px; 
+}
+
